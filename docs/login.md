@@ -1,4 +1,4 @@
-#Login
+<h1 id="login">Login</h1>
 
 Logining in. It's one of the first things you want to do when connecting with the api.
 
@@ -37,7 +37,7 @@ You'll get info about the currently logged user. You will also get a token* to u
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-#Testing a login
+<h1 id="test">Testing a login</h1>
 
 It's a quick way to test a login. 
 
