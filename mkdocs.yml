@@ -2,4 +2,5 @@ site_name: PlanHW API Docs
 pages:
 - [index.md, Home]
 - [login.md, Login]
+- [students.md, Students]
 theme: readthedocs

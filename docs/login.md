@@ -7,7 +7,7 @@ You'll get info about the currently logged user. You will also get a token* to u
 
 ##URI:
 
-`https://api.planhw.com/login`
+`[GET] https://api.planhw.com/login`
 
 |Params 	| Required |
 |-------	|:--------:|
@@ -43,7 +43,7 @@ It's a quick way to test a login.
 
 
 ##URI
-`https://api.planhw.com/test_login`
+`[GET] https://api.planhw.com/test_login`
 
 ###Params
 
@@ -69,3 +69,5 @@ ID is the id of a student you'd like to test. Token is the token returned by log
 - `student` is `true` if the student exists
 - `token` is `true` if the token works for the student
 - `error` if `student` or `token` are `false`, this shows a human readable explanation.
+
+
